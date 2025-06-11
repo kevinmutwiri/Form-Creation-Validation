@@ -1,2 +1,1 @@
-# Form-Creation-Validation
-ALX Deep Dive into JavaScript
+# ALX Deep Dive into JavaScript
